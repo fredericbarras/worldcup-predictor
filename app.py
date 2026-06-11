@@ -384,6 +384,16 @@ with tabs[0]:
         if batch_fixtures.empty:
             st.warning("No upcoming matches in the selected window.")
         else:
+            # Fetch odds automatically when a key is configured and none
+            # have been fetched yet this session.
+            if not odds_events and api_key:
+                try:
+                    odds_events = fetch_all_match_odds(api_key)
+                    st.session_state["odds_events"] = odds_events
+                    st.session_state["odds_fetched_at"] = datetime.now().strftime("%H:%M")
+                    st.toast(f"Odds fetched automatically for {len(odds_events)} matches.")
+                except Exception as exc:
+                    st.warning(f"Odds fetch failed ({exc}) — using the Elo fallback.")
             bar = st.progress(0.0, text="Simulating...")
             batch_results = simulate_all_upcoming(
                 batch_fixtures,
