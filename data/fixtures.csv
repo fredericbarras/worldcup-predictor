@@ -1,0 +1,105 @@
+match_id,date,kickoff_utc,phase,group,team_a,team_b,venue,score_a,score_b,played
+1,2026-06-11,19:00,Group Stage,A,Mexico,South Africa,Mexico City Stadium,,,False
+2,2026-06-12,02:00,Group Stage,A,Korea Republic,Czechia,Guadalajara Stadium,,,False
+3,2026-06-12,19:00,Group Stage,B,Canada,Bosnia and Herzegovina,Toronto Stadium,,,False
+4,2026-06-13,01:00,Group Stage,D,USA,Paraguay,Los Angeles Stadium,,,False
+5,2026-06-14,01:00,Group Stage,C,Haiti,Scotland,Boston Stadium,,,False
+6,2026-06-14,04:00,Group Stage,D,Australia,Türkiye,BC Place Vancouver,,,False
+7,2026-06-13,22:00,Group Stage,C,Brazil,Morocco,New York/New Jersey Stadium,,,False
+8,2026-06-13,19:00,Group Stage,B,Qatar,Switzerland,San Francisco Bay Area Stadium,,,False
+9,2026-06-14,23:00,Group Stage,E,Côte d'Ivoire,Ecuador,Philadelphia Stadium,,,False
+10,2026-06-14,17:00,Group Stage,E,Germany,Curaçao,Houston Stadium,,,False
+11,2026-06-14,20:00,Group Stage,F,Netherlands,Japan,Dallas Stadium,,,False
+12,2026-06-15,02:00,Group Stage,F,Sweden,Tunisia,Monterrey Stadium,,,False
+13,2026-06-15,22:00,Group Stage,H,Saudi Arabia,Uruguay,Miami Stadium,,,False
+14,2026-06-15,16:00,Group Stage,H,Spain,Cabo Verde,Atlanta Stadium,,,False
+15,2026-06-16,01:00,Group Stage,G,IR Iran,New Zealand,Los Angeles Stadium,,,False
+16,2026-06-15,19:00,Group Stage,G,Belgium,Egypt,Seattle Stadium,,,False
+17,2026-06-16,19:00,Group Stage,I,France,Senegal,New York/New Jersey Stadium,,,False
+18,2026-06-16,22:00,Group Stage,I,Iraq,Norway,Boston Stadium,,,False
+19,2026-06-17,01:00,Group Stage,J,Argentina,Algeria,Kansas City Stadium,,,False
+20,2026-06-17,04:00,Group Stage,J,Austria,Jordan,San Francisco Bay Area Stadium,,,False
+21,2026-06-17,23:00,Group Stage,L,Ghana,Panama,Toronto Stadium,,,False
+22,2026-06-17,20:00,Group Stage,L,England,Croatia,Dallas Stadium,,,False
+23,2026-06-17,17:00,Group Stage,K,Portugal,Congo DR,Houston Stadium,,,False
+24,2026-06-18,02:00,Group Stage,K,Uzbekistan,Colombia,Mexico City Stadium,,,False
+25,2026-06-18,16:00,Group Stage,A,Czechia,South Africa,Atlanta Stadium,,,False
+26,2026-06-18,19:00,Group Stage,B,Switzerland,Bosnia and Herzegovina,Los Angeles Stadium,,,False
+27,2026-06-18,22:00,Group Stage,B,Canada,Qatar,BC Place Vancouver,,,False
+28,2026-06-19,01:00,Group Stage,A,Mexico,Korea Republic,Guadalajara Stadium,,,False
+29,2026-06-20,01:00,Group Stage,C,Brazil,Haiti,Philadelphia Stadium,,,False
+30,2026-06-19,22:00,Group Stage,C,Scotland,Morocco,Boston Stadium,,,False
+31,2026-06-20,04:00,Group Stage,D,Türkiye,Paraguay,San Francisco Bay Area Stadium,,,False
+32,2026-06-19,19:00,Group Stage,D,USA,Australia,Seattle Stadium,,,False
+33,2026-06-20,20:00,Group Stage,E,Germany,Côte d'Ivoire,Toronto Stadium,,,False
+34,2026-06-21,00:00,Group Stage,E,Ecuador,Curaçao,Kansas City Stadium,,,False
+35,2026-06-20,17:00,Group Stage,F,Netherlands,Sweden,Houston Stadium,,,False
+36,2026-06-21,04:00,Group Stage,F,Tunisia,Japan,Monterrey Stadium,,,False
+37,2026-06-21,22:00,Group Stage,H,Uruguay,Cabo Verde,Miami Stadium,,,False
+38,2026-06-21,16:00,Group Stage,H,Spain,Saudi Arabia,Atlanta Stadium,,,False
+39,2026-06-21,19:00,Group Stage,G,Belgium,IR Iran,Los Angeles Stadium,,,False
+40,2026-06-22,01:00,Group Stage,G,New Zealand,Egypt,BC Place Vancouver,,,False
+41,2026-06-23,00:00,Group Stage,I,Norway,Senegal,New York/New Jersey Stadium,,,False
+42,2026-06-22,21:00,Group Stage,I,France,Iraq,Philadelphia Stadium,,,False
+43,2026-06-22,17:00,Group Stage,J,Argentina,Austria,Dallas Stadium,,,False
+44,2026-06-23,03:00,Group Stage,J,Jordan,Algeria,San Francisco Bay Area Stadium,,,False
+45,2026-06-23,20:00,Group Stage,L,England,Ghana,Boston Stadium,,,False
+46,2026-06-23,23:00,Group Stage,L,Panama,Croatia,Toronto Stadium,,,False
+47,2026-06-23,17:00,Group Stage,K,Portugal,Uzbekistan,Houston Stadium,,,False
+48,2026-06-24,02:00,Group Stage,K,Colombia,Congo DR,Guadalajara Stadium,,,False
+49,2026-06-24,22:00,Group Stage,C,Scotland,Brazil,Miami Stadium,,,False
+50,2026-06-24,22:00,Group Stage,C,Morocco,Haiti,Atlanta Stadium,,,False
+51,2026-06-24,19:00,Group Stage,B,Switzerland,Canada,BC Place Vancouver,,,False
+52,2026-06-24,19:00,Group Stage,B,Bosnia and Herzegovina,Qatar,Seattle Stadium,,,False
+53,2026-06-25,01:00,Group Stage,A,Czechia,Mexico,Mexico City Stadium,,,False
+54,2026-06-25,01:00,Group Stage,A,South Africa,Korea Republic,Monterrey Stadium,,,False
+55,2026-06-25,20:00,Group Stage,E,Curaçao,Côte d'Ivoire,Philadelphia Stadium,,,False
+56,2026-06-25,20:00,Group Stage,E,Ecuador,Germany,New York/New Jersey Stadium,,,False
+57,2026-06-25,23:00,Group Stage,F,Japan,Sweden,Dallas Stadium,,,False
+58,2026-06-25,23:00,Group Stage,F,Tunisia,Netherlands,Kansas City Stadium,,,False
+59,2026-06-26,02:00,Group Stage,D,Türkiye,USA,Los Angeles Stadium,,,False
+60,2026-06-26,02:00,Group Stage,D,Paraguay,Australia,San Francisco Bay Area Stadium,,,False
+61,2026-06-26,19:00,Group Stage,I,Norway,France,Boston Stadium,,,False
+62,2026-06-26,19:00,Group Stage,I,Senegal,Iraq,Toronto Stadium,,,False
+63,2026-06-27,03:00,Group Stage,G,Egypt,IR Iran,Seattle Stadium,,,False
+64,2026-06-27,03:00,Group Stage,G,New Zealand,Belgium,BC Place Vancouver,,,False
+65,2026-06-27,00:00,Group Stage,H,Cabo Verde,Saudi Arabia,Houston Stadium,,,False
+66,2026-06-27,00:00,Group Stage,H,Uruguay,Spain,Guadalajara Stadium,,,False
+67,2026-06-27,21:00,Group Stage,L,Panama,England,New York/New Jersey Stadium,,,False
+68,2026-06-27,21:00,Group Stage,L,Croatia,Ghana,Philadelphia Stadium,,,False
+69,2026-06-28,02:00,Group Stage,J,Algeria,Austria,Kansas City Stadium,,,False
+70,2026-06-28,02:00,Group Stage,J,Jordan,Argentina,Dallas Stadium,,,False
+71,2026-06-27,23:30,Group Stage,K,Colombia,Portugal,Miami Stadium,,,False
+72,2026-06-27,23:30,Group Stage,K,Congo DR,Uzbekistan,Atlanta Stadium,,,False
+73,2026-06-28,19:00,Round of 32,,2A,2B,Los Angeles Stadium,,,False
+74,2026-06-29,20:30,Round of 32,,1E,3ABCDF,Boston Stadium,,,False
+75,2026-06-30,01:00,Round of 32,,1F,2C,Monterrey Stadium,,,False
+76,2026-06-29,17:00,Round of 32,,1C,2F,Houston Stadium,,,False
+77,2026-06-30,21:00,Round of 32,,1I,3CDFGH,New York/New Jersey Stadium,,,False
+78,2026-06-30,17:00,Round of 32,,2E,2I,Dallas Stadium,,,False
+79,2026-07-01,01:00,Round of 32,,1A,3CEFHI,Mexico City Stadium,,,False
+80,2026-07-01,16:00,Round of 32,,1L,3EHIJK,Atlanta Stadium,,,False
+81,2026-07-02,00:00,Round of 32,,1D,3BEFIJ,San Francisco Bay Area Stadium,,,False
+82,2026-07-01,20:00,Round of 32,,1G,3AEHIJ,Seattle Stadium,,,False
+83,2026-07-02,23:00,Round of 32,,2K,2L,Toronto Stadium,,,False
+84,2026-07-02,19:00,Round of 32,,1H,2J,Los Angeles Stadium,,,False
+85,2026-07-03,03:00,Round of 32,,1B,3EFGIJ,BC Place Vancouver,,,False
+86,2026-07-03,22:00,Round of 32,,1J,2H,Miami Stadium,,,False
+87,2026-07-04,01:30,Round of 32,,1K,3DEIJL,Kansas City Stadium,,,False
+88,2026-07-03,18:00,Round of 32,,2D,2G,Dallas Stadium,,,False
+89,2026-07-04,21:00,Round of 16,,To be announced,To be announced,Philadelphia Stadium,,,False
+90,2026-07-04,17:00,Round of 16,,To be announced,To be announced,Houston Stadium,,,False
+91,2026-07-05,20:00,Round of 16,,To be announced,To be announced,New York/New Jersey Stadium,,,False
+92,2026-07-06,00:00,Round of 16,,To be announced,To be announced,Mexico City Stadium,,,False
+93,2026-07-06,19:00,Round of 16,,To be announced,To be announced,Dallas Stadium,,,False
+94,2026-07-07,00:00,Round of 16,,To be announced,To be announced,Seattle Stadium,,,False
+95,2026-07-07,16:00,Round of 16,,To be announced,To be announced,Atlanta Stadium,,,False
+96,2026-07-07,20:00,Round of 16,,To be announced,To be announced,BC Place Vancouver,,,False
+97,2026-07-09,20:00,Quarterfinal,,To be announced,To be announced,Boston Stadium,,,False
+98,2026-07-10,19:00,Quarterfinal,,To be announced,To be announced,Los Angeles Stadium,,,False
+99,2026-07-11,21:00,Quarterfinal,,To be announced,To be announced,Miami Stadium,,,False
+100,2026-07-12,01:00,Quarterfinal,,To be announced,To be announced,Kansas City Stadium,,,False
+101,2026-07-14,19:00,Semifinal,,To be announced,To be announced,Dallas Stadium,,,False
+102,2026-07-15,19:00,Semifinal,,To be announced,To be announced,Atlanta Stadium,,,False
+103,2026-07-18,21:00,Third-place match,,To be announced,To be announced,Miami Stadium,,,False
+104,2026-07-19,19:00,Final,,To be announced,To be announced,New York/New Jersey Stadium,,,False

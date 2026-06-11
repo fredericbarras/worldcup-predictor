@@ -1,0 +1,6 @@
+scenario,team_a,team_b,phase,odds_a,odds_draw,odds_b,odds_over_2_5,odds_under_2_5,comment
+heavy_favorite,Argentina,Saudi Arabia,Group Stage,1.20,7.00,15.00,1.65,2.25,Strong favorite vs outsider
+balanced,France,Spain,Semifinal,2.60,3.20,2.80,2.05,1.78,Even knockout match
+moderate_favorite,England,Senegal,Round of 16,1.70,3.60,5.50,2.10,1.75,Clear but beatable favorite
+low_scoring,Morocco,Switzerland,Group Stage,2.90,2.90,2.70,2.45,1.55,Defensive teams expected
+high_scoring,Germany,Netherlands,Quarterfinal,2.40,3.40,2.95,1.70,2.15,Open attacking match
